@@ -7,3 +7,9 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+## 4. Another step, Just in case we need to track changes or progress of what we doing project likewise then we should add a task list to track.
+- [x] Add Headings
+- [x] Add Image
+- [x] Add Code Example
+- [x] Add Task List
+- [ ] Merge PR
